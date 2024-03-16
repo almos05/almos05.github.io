@@ -18,6 +18,10 @@
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/category/git/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,7 +34,11 @@
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/first_post/</loc>
+    <loc>http://localhost:1313/post/data_science_post/</loc>
+    <lastmod>2024-03-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/git_post/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
